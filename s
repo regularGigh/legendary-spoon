@@ -1,1 +1,1 @@
-Alert, TROLL
+Alert, You darn got hacked!
