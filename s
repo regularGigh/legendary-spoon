@@ -1,1 +1,1 @@
-GetIp, local
+GetIp, Local
